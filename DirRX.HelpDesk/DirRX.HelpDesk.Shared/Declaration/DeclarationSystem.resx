@@ -67,4 +67,7 @@
   <data name="CollectionDisplayName" xml:space="preserve">
     <value>Декларация</value>
   </data>
+  <data name="Property_Employee" xml:space="preserve">
+    <value>Сотрудник</value>
+  </data>
 </root>
