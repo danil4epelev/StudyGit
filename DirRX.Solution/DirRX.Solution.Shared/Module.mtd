@@ -24,6 +24,67 @@
     }
   },
   "DesktopViews": [],
+  "ExplorerTreeOrder": [
+    {
+      "ItemId": "15ac84dd-2fc7-4009-ab11-2683665054e7"
+    },
+    {
+      "ItemId": "1a66156e-4d67-4409-901a-51c1d3f5da8a",
+      "PreviousItemId": "15ac84dd-2fc7-4009-ab11-2683665054e7"
+    },
+    {
+      "ItemId": "ca7af20c-5757-42ec-8fbd-a3f0efc9e230",
+      "PreviousItemId": "1a66156e-4d67-4409-901a-51c1d3f5da8a"
+    },
+    {
+      "ItemId": "4b92bc28-ea05-4d1c-bdab-5b78e1965df1",
+      "PreviousItemId": "ca7af20c-5757-42ec-8fbd-a3f0efc9e230"
+    },
+    {
+      "ItemId": "5eed452f-c536-4669-bb86-4411616e55bd",
+      "PreviousItemId": "4b92bc28-ea05-4d1c-bdab-5b78e1965df1"
+    },
+    {
+      "ItemId": "68a8f6a3-f063-4635-8123-8662cc5bcdf3",
+      "PreviousItemId": "5eed452f-c536-4669-bb86-4411616e55bd"
+    },
+    {
+      "ItemId": "1cd808e2-704f-4e9b-b713-1a0184ef1a8b",
+      "PreviousItemId": "68a8f6a3-f063-4635-8123-8662cc5bcdf3"
+    },
+    {
+      "ItemId": "a0d1b0af-2115-43e0-ab19-044dc6ac8c83",
+      "PreviousItemId": "1cd808e2-704f-4e9b-b713-1a0184ef1a8b"
+    },
+    {
+      "ItemId": "ba86f4be-46eb-484b-9f64-b50202a91e7c",
+      "PreviousItemId": "a0d1b0af-2115-43e0-ab19-044dc6ac8c83"
+    },
+    {
+      "ItemId": "0f6287bb-71a5-4bb8-9050-2126fe1f6f0b",
+      "PreviousItemId": "ba86f4be-46eb-484b-9f64-b50202a91e7c"
+    },
+    {
+      "ItemId": "8b1abfb7-38b5-4d1e-b145-e8edc9103e8f",
+      "PreviousItemId": "0f6287bb-71a5-4bb8-9050-2126fe1f6f0b"
+    },
+    {
+      "ItemId": "9524ee09-07c8-4065-91ad-071539241cb4",
+      "PreviousItemId": "8b1abfb7-38b5-4d1e-b145-e8edc9103e8f"
+    },
+    {
+      "ItemId": "3e167788-20a7-472c-bd61-6a1067c61938",
+      "PreviousItemId": "9524ee09-07c8-4065-91ad-071539241cb4"
+    },
+    {
+      "ItemId": "88176fd3-77a8-4bac-aea5-0b95d6a3b97b",
+      "PreviousItemId": "3e167788-20a7-472c-bd61-6a1067c61938"
+    },
+    {
+      "ItemId": "e1152e68-c382-4c22-ba6e-a574c2ad5191",
+      "PreviousItemId": "88176fd3-77a8-4bac-aea5-0b95d6a3b97b"
+    }
+  ],
   "IconResourcesKeys": [],
   "Importance": "Medium",
   "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
