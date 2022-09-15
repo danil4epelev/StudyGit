@@ -1,0 +1,57 @@
+{
+  "$type": "Sungero.Metadata.SolutionMetadata, Sungero.Metadata",
+  "NameGuid": "a468b198-7819-47d4-9a17-f984e39ac088",
+  "Name": "TelegramBot",
+  "AsyncHandlers": [],
+  "ClientAssemblyName": "starkov.TelegramBot.Client",
+  "ClientBaseAssemblyName": "starkov.TelegramBot.ClientBase",
+  "ClientBaseNamespace": "starkov.TelegramBot.ClientBase",
+  "ClientNamespace": "starkov.TelegramBot.Client",
+  "Code": "Telegra",
+  "CompanyCode": "starkov",
+  "Cover": {
+    "NameGuid": "69ee3a79-cde2-4afc-8389-e9a7f5f4ddef",
+    "Actions": [],
+    "Background": null,
+    "Footer": {
+      "NameGuid": "d0129bba-afa5-4d06-97a2-3f7060560717",
+      "BackgroundPosition": "Stretch"
+    },
+    "Groups": [],
+    "Header": {
+      "NameGuid": "960447e1-f21c-414c-b6c2-ce1c9a7a68f9",
+      "BackgroundPosition": "Stretch"
+    }
+  },
+  "DesktopViews": [],
+  "IconResourcesKeys": [],
+  "Importance": "Medium",
+  "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "InterfaceNamespace": "starkov.TelegramBot",
+  "OrderedSpecialFolders": [],
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "starkov.TelegramBot",
+  "ResourcesKeys": [],
+  "ServerAssemblyName": "starkov.TelegramBot.Server",
+  "ServerNamespace": "starkov.TelegramBot.Server",
+  "SharedAssemblyName": "starkov.TelegramBot.Shared",
+  "SharedNamespace": "starkov.TelegramBot.Shared",
+  "SpecialFolders": [],
+  "Version": "0.0.1.0",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "SolutionMetadata",
+      "Number": 6
+    },
+    {
+      "Type": "ModuleMetadata",
+      "Number": 6
+    },
+    {
+      "Type": "DomainApi",
+      "Number": 3
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "$type": "Sungero.Metadata.ModuleMetadata, Sungero.Metadata",
+  "NameGuid": "cb7217a8-c4de-41c5-8a4b-d1cef026bde2",
+  "Name": "BotProcessing",
+  "AsyncHandlers": [],
+  "ClientAssemblyName": "starkov.BotProcessing.Client",
+  "ClientBaseAssemblyName": "starkov.BotProcessing.ClientBase",
+  "ClientBaseNamespace": "starkov.BotProcessing.ClientBase",
+  "ClientNamespace": "starkov.BotProcessing.Client",
+  "Code": "BotProc",
+  "CompanyCode": "starkov",
+  "Cover": {
+    "NameGuid": "316197bb-883e-4ad2-844c-aba240d85740",
+    "Actions": [],
+    "Background": null,
+    "Footer": {
+      "NameGuid": "f6169384-ffe9-4df3-93e7-38951199e928",
+      "BackgroundPosition": "Stretch"
+    },
+    "Groups": [],
+    "Header": {
+      "NameGuid": "73cbe6de-f76c-443f-9c87-f322c2e05199",
+      "BackgroundPosition": "Stretch"
+    }
+  },
+  "Dependencies": [
+    {
+      "Id": "a468b198-7819-47d4-9a17-f984e39ac088",
+      "IsSolutionModule": true,
+      "MaxVersion": "",
+      "MinVersion": ""
+    },
+    {
+      "Id": "92491aa6-c4df-4f46-a807-ebdd337bda74",
+      "MaxVersion": "",
+      "MinVersion": "1.1.0.0"
+    }
+  ],
+  "HandledEvents": [
+    "InitializingServer"
+  ],
+  "IconResourcesKeys": [],
+  "Importance": "Medium",
+  "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "InterfaceNamespace": "starkov.BotProcessing",
+  "PublicFunctions": [
+    {
+      "Name": "CreateTaskFromBotRequest",
+      "Parameters": [
+        {
+          "Name": "textApplication",
+          "ParameterType": "global::System.String",
+          "ParameterTypeFullName": "System.String"
+        },
+        {
+          "Name": "buyerName",
+          "ParameterType": "global::System.String",
+          "ParameterTypeFullName": "System.String"
+        },
+        {
+          "Name": "buyerEmail",
+          "ParameterType": "global::System.String",
+          "ParameterTypeFullName": "System.String"
+        },
+        {
+          "Name": "buyerPhoneNumber",
+          "ParameterType": "global::System.String",
+          "ParameterTypeFullName": "System.String"
+        }
+      ],
+      "ReturnType": "void",
+      "ReturnTypeFullName": "System.Void",
+      "WebApiRequestType": "Post"
+    }
+  ],
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "starkov.BotProcessing",
+  "ResourcesKeys": [
+    "ResponsibleForApplications",
+    "DescriptionResponsibleForApplication"
+  ],
+  "ServerAssemblyName": "starkov.BotProcessing.Server",
+  "ServerNamespace": "starkov.BotProcessing.Server",
+  "SharedAssemblyName": "starkov.BotProcessing.Shared",
+  "SharedNamespace": "starkov.BotProcessing.Shared",
+  "SpecialFolders": [],
+  "Version": "0.0.1.0",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "ModuleMetadata",
+      "Number": 6
+    },
+    {
+      "Type": "DomainApi",
+      "Number": 3
+    }
+  ]
+}
